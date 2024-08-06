@@ -2,9 +2,9 @@
 
 1. Docker Build checked
 2. Github Workflow
-3. Iam User In AWS
+3. Created IAM User in AWS
 
-## Docker Setup In EC2 commands to be Executed
+## In EC2 CLI, Docker Setup commands to be Executed :
 
 #optinal
 
@@ -22,7 +22,7 @@ sudo usermod -aG docker ubuntu
 
 newgrp docker
 
-## Configure EC2 as self-hosted runner:
+## Configure EC2 as self-hosted runner :
 
 ## Setup github secrets:
 
